@@ -11,8 +11,7 @@ Github: (https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)
 
  
 The variational autoencoder part is augmented into a causal graph mask adapted from:
-Yang M. et al., (2023) CausalVAE: Structured Causal Disentanglement in Variational Autoencoder (https://arxiv.org/pdf/2004.08697v7)
-
+Yang M. et al., (2023) CausalVAE: Structured Causal Disentanglement in Variational Autoencoder (https://arxiv.org/pdf/2004.08697v7) <br>
 Github: (https://github.com/huawei-noah/trustworthyAI/tree/master/research/CausalVAE)
 
 Due to technical and time limitations the project is currently on hold.
