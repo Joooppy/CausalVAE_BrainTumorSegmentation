@@ -6,8 +6,7 @@ This project combines a variational autoencoder regularized brain tumor segmenta
 
 
 The base segmentation network used is the BraTS challenge winner from 2018 Myronenko A.: (https://arxiv.org/pdf/1810.11654.pdf) using an adapted version of the implementation by: 
-C. Lyu, H. Shu. (2021) A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation. Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (BrainLes 2020), LNCS 12658, pp. 435-447. (https://arxiv.org/abs/2011.02881)
-
+C. Lyu, H. Shu. (2021) A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation. Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (BrainLes 2020), LNCS 12658, pp. 435-447. (https://arxiv.org/abs/2011.02881) <br>
 Github: (https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)
 
  
