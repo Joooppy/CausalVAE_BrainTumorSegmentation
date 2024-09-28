@@ -4,12 +4,16 @@
 
 This project combines a variational autoencoder regularized brain tumor segmentation network with a causal mask to discover and inference on a causal structure.
 
+
 The base segmentation network used is the BraTS challenge winner from 2018 Myronenko A.: (https://arxiv.org/pdf/1810.11654.pdf) using an adapted version of the implementation by: 
 C. Lyu, H. Shu. (2021) A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation. Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (BrainLes 2020), LNCS 12658, pp. 435-447. (https://arxiv.org/abs/2011.02881)
+
 Github: (https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)
+
  
 The variational autoencoder part is augmented into a causal graph mask adapted from:
 Yang M. et al., (2023) CausalVAE: Structured Causal Disentanglement in Variational Autoencoder (https://arxiv.org/pdf/2004.08697v7)
+
 Github: (https://github.com/huawei-noah/trustworthyAI/tree/master/research/CausalVAE)
 
 Due to technical and time limitations the project is currently on hold.
