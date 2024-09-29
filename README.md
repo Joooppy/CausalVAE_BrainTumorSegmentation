@@ -21,7 +21,7 @@ Due to technical and time limitations the project is currently on hold.
 
 
 
-# Data Preparation
+### Data Preparation
 
 To prepare data from the start:
 1. Normalization:
@@ -43,7 +43,7 @@ python train_test_split.py
 The additionally filter the data to have a to at least have proportion of 0.005 compared to the brainmask of each individual segmentation label, so to have more meaningful data, use the data_prep notebooks and adjust the path accordingly.
 
 
-# Training
+#### Training
 - For training the model, use:
 ```bash
 cd CausalVAE
@@ -52,7 +52,7 @@ python main.py -e num_epochs -g num_gpus -p load_old_model
 The model will save the best model, log state dicts and saves the input and reconstruction image of the current epoch.
 
 
-# To Do
+### To Do
 
 The next steps will be:
 - full training run and evaluate resulting causal DAG
