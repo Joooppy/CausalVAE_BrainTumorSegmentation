@@ -43,7 +43,7 @@ python train_test_split.py
 The additionally filter the data to have a to at least have proportion of 0.005 compared to the brainmask of each individual segmentation label, so to have more meaningful data, use the data_prep notebooks and adjust the path accordingly.
 
 
-#### Training
+### Training
 - For training the model, use:
 ```bash
 cd CausalVAE
