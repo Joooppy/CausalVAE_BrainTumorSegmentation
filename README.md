@@ -2,7 +2,7 @@
 
 # CVAE: Causal VAE for MRI Brain Tumor Segmentation (Work in Progress)
 
-This project combines a variational autoencoder regularized brain tumor segmentation network with a causal mask to discover causal structure and inference to generate synthetic data. The dataset used for training is the Adult Glioma dataset from the BraTS 2ß18 Challenge. (https://www.med.upenn.edu/sbia/brats2018/data.html)
+This project combines a variational autoencoder regularized brain tumor segmentation network with a causal mask to discover causal structures and improve upon the inference process to generate synthetic data. The dataset used for training is the Adult Glioma dataset from the BraTS 2ß18 Challenge. (https://www.med.upenn.edu/sbia/brats2018/data.html)
 
 
 The base segmentation network used is the BraTS challenge winner from 2018 Myronenko A.: (https://arxiv.org/pdf/1810.11654.pdf) using an adapted version of the implementation by: 
