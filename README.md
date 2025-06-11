@@ -60,3 +60,4 @@ The next steps will be:
 - change between label distribution and label proportion as a weak supervision for the DAG and evaluate the forced bidirectional causal effect
 - adjust model inference mask for the task to enable controlled inference
 - inference to control synthetic data generation and analyse latent space
+- test discretization of latent space (VQVAE) for improved weak supervision
